@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: "Trebuchet MS";
+}
+
+#header {
+    background-color: dimgray;
+    height: 4rem;
+    border-bottom: 1.5rem solid LightSeaGreen;
+}
+
+h1 {
+    font-size: 1.5rem;
+    color: white;
+}
+
+#title {
+    height: 28.5rem;
+    background-color: lightgray;
+    text-align: center;
+}
+
+#about {
+    display: flex;
+}
+
+#about img {
+    height: 17rem;
+}
+
+h3 {
+    color: LightSeaGreen;
+    width: 12rem;
+    margin: auto;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+#fav {
+    display: flex;
+    justify-content: space-evenly;
+}
